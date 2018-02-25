@@ -1,0 +1,7 @@
+README.md
+setup.py
+gvcci.egg-info/PKG-INFO
+gvcci.egg-info/SOURCES.txt
+gvcci.egg-info/dependency_links.txt
+gvcci.egg-info/requires.txt
+gvcci.egg-info/top_level.txt

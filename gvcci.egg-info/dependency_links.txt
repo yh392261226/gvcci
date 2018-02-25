@@ -1,0 +1,1 @@
+https://github.com/sumartoyo/hasel.git/tarball/master#egg=package-1.0.1

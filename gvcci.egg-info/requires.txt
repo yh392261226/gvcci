@@ -1,0 +1,4 @@
+numpy
+scikit-learn
+scikit-image
+hasel>=1.0.1

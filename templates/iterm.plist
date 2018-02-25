@@ -97,7 +97,7 @@
       "Sync Title" : false,
       "Prompt Before Closing 2" : false,
       "BM Growl" : false,
-      "Command" : "\/usr\/local\/bin\/fish",
+      "Command" : "",
       "Description" : "Default",
       "Mouse Reporting" : true,
       "Smart Cursor Color" : false,
@@ -392,7 +392,7 @@
         "Alpha Component" : 1,
         "Green Component" : {{ansi-green-normal-green-float}}
       },
-      "Normal Font" : "MesloLGSForPowerline-Regular 12",
+      "Normal Font" : "PowerlineSymbols 13",
       "Custom Directory" : "No",
       "Link Color" : {
         "Red Component" : 0,
